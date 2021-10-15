@@ -1,4 +1,5 @@
 export * from './useLazyValue'
 export * from './useResetReactive'
+export * from './useResetRef'
 export * from './useToggle'
 export * from './watchShallow'
