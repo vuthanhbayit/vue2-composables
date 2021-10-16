@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.5](https://github.com/vuthanhbayit/vue2-composables/compare/v0.0.4...v0.0.5) (2021-10-16)
+
+
+### Bug Fixes
+
+* fix useToggle with defaultValue ([0651051](https://github.com/vuthanhbayit/vue2-composables/commit/0651051e3afcf36803ef9b6faade69904183f69e))
+
 ### [0.0.4](https://github.com/vuthanhbayit/vue2-composables/compare/v0.0.3...v0.0.4) (2021-10-15)
 
 
