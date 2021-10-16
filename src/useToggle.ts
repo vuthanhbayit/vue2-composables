@@ -1,7 +1,7 @@
 import { ref } from '@vue/composition-api'
 
-export const useToggle = () => {
-  const visible = ref(false)
+export const useToggle = (defaultValue = false) => {
+  const visible = ref(defaultValue)
 
   const open = () => {
     visible.value = true
