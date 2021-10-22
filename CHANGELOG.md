@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.6](https://github.com/vuthanhbayit/vue2-composables/compare/v0.0.5...v0.0.6) (2021-10-22)
+
+
+### Bug Fixes
+
+* fix emit useLazyValue ([a65d8fa](https://github.com/vuthanhbayit/vue2-composables/commit/a65d8fa5ac772df227e5359b74e0596568de6415))
+
 ### [0.0.5](https://github.com/vuthanhbayit/vue2-composables/compare/v0.0.4...v0.0.5) (2021-10-16)
 
 
