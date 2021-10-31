@@ -1,18 +1,23 @@
-## Development
+# @vt7/vue2-composables
 
-```bash
-# install dependencies
-$ yarn install
+## Getting started
 
-# build for production
-$ yarn build
+```
+yarn add @vt7/vue2-composables
+```
 
-# lint project files
-$ yarn lint
+## Basic Usage
 
-# serve demo
-$ yarn demo:serve
+In `main.vue`
 
-# build demo for production
-$ yarn demo:build
+```js
+import { useToggle } from '@vt7/vue2-composables'
+
+export default defineComponent({
+  setup() {
+    const { visible, toggle } = useToggle()
+    
+    return { visible, toggle }
+  }
+})
 ```
