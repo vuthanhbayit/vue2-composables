@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.12](https://github.com/vuthanhbayit/vue2-composables/compare/v0.0.11...v0.0.12) (2021-11-21)
+
+
+### Bug Fixes
+
+* public tryOnScopeDispose ([fad1bc1](https://github.com/vuthanhbayit/vue2-composables/commit/fad1bc1a03f515a16f288a5874c874b897a64cac))
+
 ### [0.0.11](https://github.com/vuthanhbayit/vue2-composables/compare/v0.0.10...v0.0.11) (2021-11-21)
 
 
