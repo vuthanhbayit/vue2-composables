@@ -1,5 +1,5 @@
 import { Ref, ref } from '@vue/composition-api'
-import { cloneDeep } from '@vt7/utils'
+import { cloneDeep } from '@vt7/utils/dist/cloneDeep'
 
 export type UseResetRef<T> = [Ref<T>, () => void]
 

@@ -1,5 +1,5 @@
 import { reactive } from '@vue/composition-api'
-import { cloneDeep } from '@vt7/utils'
+import { cloneDeep } from '@vt7/utils/dist/cloneDeep'
 
 export const useResetReactive = <T extends Record<string, any>>(
   defaultValue: T

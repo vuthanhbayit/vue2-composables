@@ -5,7 +5,7 @@ import {
   ref,
   watch,
 } from '@vue/composition-api'
-import { debounce } from '@vt7/utils'
+import { debounce } from '@vt7/utils/dist/vendor'
 
 export const useLazyValue = <T>(modelValue: Ref<T>, wait = 0) => {
   const vm = getCurrentInstance()
