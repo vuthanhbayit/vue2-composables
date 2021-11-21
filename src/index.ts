@@ -1,4 +1,5 @@
 export * from './debouncedWatch'
+export * from './useIntersectionObserver'
 export * from './useLazyValue'
 export * from './useResetReactive'
 export * from './useResetRef'
