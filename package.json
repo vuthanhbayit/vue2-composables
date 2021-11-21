@@ -34,7 +34,7 @@
   },
   "sideEffects": false,
   "dependencies": {
-    "@vt7/utils": "^0.0.6"
+    "@vt7/utils": "^0.0.18"
   },
   "devDependencies": {
     "@commitlint/cli": "^12.1.4",

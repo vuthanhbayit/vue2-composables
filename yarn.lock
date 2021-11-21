@@ -327,10 +327,10 @@
     "@typescript-eslint/types" "4.32.0"
     eslint-visitor-keys "^2.0.0"
 
-"@vt7/utils@^0.0.6":
-  version "0.0.6"
-  resolved "https://registry.yarnpkg.com/@vt7/utils/-/utils-0.0.6.tgz#47a0d8c3c5b09113acd49a1353363d0e7cc609d8"
-  integrity sha512-h9260vdk4fvqfhZHjA8nxtaWJuXWAkFvUMJUXOFZvgT7qOu4nefC3e/jMCIX27QbIDzWrVYDu/kqRvVLIl8ajA==
+"@vt7/utils@^0.0.18":
+  version "0.0.18"
+  resolved "https://registry.yarnpkg.com/@vt7/utils/-/utils-0.0.18.tgz#ef0727a6faa656d29bde612721556f76f605f46c"
+  integrity sha512-7/LylDOPWveB5/0Wu0FWoSa4axB+Mh5CuXBfiYp/r++cIcECjLh+xSkOS/EsV3JDtdVnqflcd+nhFuiUOllOJQ==
   dependencies:
     "@types/throttle-debounce" "^2.1.0"
 
