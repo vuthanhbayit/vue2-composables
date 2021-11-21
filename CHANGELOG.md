@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.11](https://github.com/vuthanhbayit/vue2-composables/compare/v0.0.10...v0.0.11) (2021-11-21)
+
+
+### Features
+
+* useIntersectionObserver ([5266cd0](https://github.com/vuthanhbayit/vue2-composables/commit/5266cd08adc6aa989ff32f984e9c5e7fae122dd6))
+
 ### [0.0.10](https://github.com/vuthanhbayit/vue2-composables/compare/v0.0.9...v0.0.10) (2021-11-21)
 
 
