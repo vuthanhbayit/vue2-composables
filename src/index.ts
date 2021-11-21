@@ -1,5 +1,6 @@
 export * from './createSharedComposable'
 export * from './debouncedWatch'
+export * from './ignorableWatch'
 export * from './onClickOutside'
 export * from './toReactive'
 export * from './tryOnScopeDispose'
