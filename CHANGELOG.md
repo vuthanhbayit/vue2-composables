@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.13](https://github.com/vuthanhbayit/vue2-composables/compare/v0.0.12...v0.0.13) (2021-11-21)
+
+
+### Features
+
+* add useLocalStorage ([3b04c86](https://github.com/vuthanhbayit/vue2-composables/commit/3b04c863de6e4d24c7350e3228c405fbbee1a334))
+
+
+### Bug Fixes
+
+* lint @typescript-eslint/no-extra-semi ([4ff736e](https://github.com/vuthanhbayit/vue2-composables/commit/4ff736ed95151168b7d2c0015295637faa269946))
+
 ### [0.0.12](https://github.com/vuthanhbayit/vue2-composables/compare/v0.0.11...v0.0.12) (2021-11-21)
 
 
