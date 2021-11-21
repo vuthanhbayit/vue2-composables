@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.14](https://github.com/vuthanhbayit/vue2-composables/compare/v0.0.13...v0.0.14) (2021-11-21)
+
+
+### Features
+
+* add createSharedComposable ([83a6298](https://github.com/vuthanhbayit/vue2-composables/commit/83a629896117689a9749b460c66fa364acd8bd42))
+
 ### [0.0.13](https://github.com/vuthanhbayit/vue2-composables/compare/v0.0.12...v0.0.13) (2021-11-21)
 
 
