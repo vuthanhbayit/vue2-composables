@@ -2,6 +2,19 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.8](https://github.com/vuthanhbayit/vue2-composables/compare/v0.0.7...v0.0.8) (2021-11-21)
+
+
+### Features
+
+* add debounceWatch ([0c4d57f](https://github.com/vuthanhbayit/vue2-composables/commit/0c4d57fd13c988b99e6a0b41b17b80c0abf6b12c))
+
+
+### Bug Fixes
+
+* types use composition api ([e18e461](https://github.com/vuthanhbayit/vue2-composables/commit/e18e461982c58f8f52b78f8518b09230e4159eff))
+* update readme ([7154617](https://github.com/vuthanhbayit/vue2-composables/commit/71546178702c37075e2ffe991fc05470c8c40ea5))
+
 ### [0.0.7](https://github.com/vuthanhbayit/vue2-composables/compare/v0.0.6...v0.0.7) (2021-10-25)
 
 
