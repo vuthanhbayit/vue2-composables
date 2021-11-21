@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.16](https://github.com/vuthanhbayit/vue2-composables/compare/v0.0.15...v0.0.16) (2021-11-21)
+
+
+### Features
+
+* add ignorableWatch ([a951871](https://github.com/vuthanhbayit/vue2-composables/commit/a9518718278bac8173d5166a1d3796629b9c05ad))
+
 ### [0.0.15](https://github.com/vuthanhbayit/vue2-composables/compare/v0.0.14...v0.0.15) (2021-11-21)
 
 
