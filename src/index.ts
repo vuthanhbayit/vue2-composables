@@ -1,4 +1,6 @@
 export * from './debouncedWatch'
+export * from './tryOnScopeDispose'
+export * from './unrefElement'
 export * from './useIntersectionObserver'
 export * from './useLazyValue'
 export * from './useResetReactive'
@@ -6,3 +8,6 @@ export * from './useResetRef'
 export * from './useToggle'
 export * from './watchShallow'
 export * from './watchWithFilter'
+
+export * from '../utils/types'
+export * from '../utils/filters'
