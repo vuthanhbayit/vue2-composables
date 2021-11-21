@@ -1,11 +1,10 @@
 import { watch } from '@vue/composition-api'
 import { MaybeElementRef, unrefElement } from './unrefElement'
 import { tryOnScopeDispose } from './tryOnScopeDispose'
+import { ConfigurableWindow } from './_configurable'
+import { noop } from '../utils/is'
 
-// eslint-disable-next-line @typescript-eslint/no-empty-function
-const noop = () => {}
-
-export interface IntersectionObserverOptions {
+export interface IntersectionObserverOptions extends ConfigurableWindow {
   /**
    * The Element or Document whose bounds are used as the bounding box when testing for intersection.
    */
@@ -20,8 +19,6 @@ export interface IntersectionObserverOptions {
    * Either a single number or an array of numbers between 0.0 and 1.
    */
   threshold?: number | number[]
-
-  window?: Window
 }
 
 const defaultWindow = typeof window !== 'undefined' ? window : undefined
