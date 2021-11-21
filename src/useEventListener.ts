@@ -111,10 +111,15 @@ export function useEventListener(...args: any[]) {
   let options: any
 
   if (isString(args[0])) {
-    ;[event, listener, options] = args
+    event = args[0]
+    listener = args[1]
+    options = args[2]
     target = defaultWindow
   } else {
-    ;[target, event, listener, options] = args
+    target = args[0]
+    event = args[1]
+    listener = args[2]
+    options = args[3]
   }
 
   if (!target) return noop
