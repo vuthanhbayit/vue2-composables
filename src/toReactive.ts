@@ -17,7 +17,8 @@ export function toReactive<T extends object>(objectRef: MaybeRef<T>): T {
         return Reflect.get(objectRef.value, p, receiver)
       },
       set(_, p, value) {
-        ;(objectRef.value as any)[p] = value
+        // @ts-ignore
+        objectRef.value[p] = value
         return true
       },
       deleteProperty(_, p) {
