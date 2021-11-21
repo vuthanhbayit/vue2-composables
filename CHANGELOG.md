@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.15](https://github.com/vuthanhbayit/vue2-composables/compare/v0.0.14...v0.0.15) (2021-11-21)
+
+
+### Features
+
+* add watchOnce ([fa2e3cc](https://github.com/vuthanhbayit/vue2-composables/commit/fa2e3ccd7ff629f406d860ffa11fb8462df275e3))
+
+
+### Bug Fixes
+
+* type toReactive ([4b7e3b9](https://github.com/vuthanhbayit/vue2-composables/commit/4b7e3b920d54e7fba4be55e11900fe215eb56ce8))
+
 ### [0.0.14](https://github.com/vuthanhbayit/vue2-composables/compare/v0.0.13...v0.0.14) (2021-11-21)
 
 
