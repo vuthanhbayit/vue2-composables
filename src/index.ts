@@ -1,3 +1,4 @@
+export * from './createSharedComposable'
 export * from './debouncedWatch'
 export * from './tryOnScopeDispose'
 export * from './unrefElement'
