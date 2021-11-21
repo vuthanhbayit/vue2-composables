@@ -1,4 +1,4 @@
-import { Ref, WatchOptions, WatchSource } from 'vue-demi'
+import { Ref, WatchOptions, WatchSource } from '@vue/composition-api'
 
 /**
  * Any function
