@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.18](https://github.com/vuthanhbayit/vue2-composables/compare/v0.0.17...v0.0.18) (2021-11-26)
+
+
+### Bug Fixes
+
+* use @vt7/vueuse ([d35cd32](https://github.com/vuthanhbayit/vue2-composables/commit/d35cd324201d42df9073d1b6acff90214f191588))
+
 ### [0.0.17](https://github.com/vuthanhbayit/vue2-composables/compare/v0.0.16...v0.0.17) (2021-11-26)
 
 
