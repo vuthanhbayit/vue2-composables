@@ -35,7 +35,7 @@
   "sideEffects": false,
   "dependencies": {
     "@vt7/utils": "^0.0.18",
-    "@vueuse/core": "^7.1.1"
+    "@vt7/vueuse": "^1.0.0"
   },
   "devDependencies": {
     "@commitlint/cli": "^12.1.4",
@@ -58,8 +58,7 @@
   },
   "peerDependencies": {
     "@vue/composition-api": "^1.0.0",
-    "vue": "^2.0.0 || >=3.0.0",
-    "@vueuse/core": "^7.1.1"
+    "vue": "^2.0.0 || >=3.0.0"
   },
   "peerDependenciesMeta": {
     "@vue/composition-api": {
