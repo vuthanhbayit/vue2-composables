@@ -1,6 +1,6 @@
 {
   "name": "@vt7/vue2-composables",
-  "version": "0.0.16",
+  "version": "0.0.17",
   "description": "Vue2 composables",
   "license": "MIT",
   "repository": "https://github.com/vuthanhbayit/vue2-composables",
@@ -30,7 +30,7 @@
     "pretty": "prettier --write \"./**/*.{js,json,html,scss,ts,vue,yml}\"",
     "prepublishOnly": "yarn build",
     "ci": "yarn pretty && yarn lint && yarn build",
-    "release": "yarn lint && standard-version && git push --follow-tags && npm publish"
+    "release": "yarn lint && standard-version && git push --follow-tags"
   },
   "sideEffects": false,
   "dependencies": {
