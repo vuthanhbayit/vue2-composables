@@ -30,11 +30,11 @@
     "pretty": "prettier --write \"./**/*.{js,json,html,scss,ts,vue,yml}\"",
     "prepublishOnly": "yarn build",
     "ci": "yarn pretty && yarn lint && yarn build",
-    "release": "yarn lint && standard-version && git push --follow-tags"
+    "release": "yarn lint && standard-version"
   },
   "sideEffects": false,
   "dependencies": {
-    "@vt7/utils": "^0.0.18",
+    "@vt7/utils": "^1.2.0",
     "@vt7/vueuse": "^1.0.0"
   },
   "devDependencies": {
