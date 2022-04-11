@@ -252,11 +252,6 @@
   resolved "https://registry.yarnpkg.com/@types/parse-json/-/parse-json-4.0.0.tgz#2f8bb441434d163b35fb8ffdccd7138927ffb8c0"
   integrity sha512-//oorEZjL6sbPcKUaCdIGlIUeH26mgzimjBB77G6XRgnDl/L5wOnpyBGRe/Mmf5CVW3PwEBE1NjiMZ/ssFh4wA==
 
-"@types/throttle-debounce@^2.1.0":
-  version "2.1.0"
-  resolved "https://registry.yarnpkg.com/@types/throttle-debounce/-/throttle-debounce-2.1.0.tgz#1c3df624bfc4b62f992d3012b84c56d41eab3776"
-  integrity sha512-5eQEtSCoESnh2FsiLTxE121IiE60hnMqcb435fShf4bpLRjEu1Eoekht23y6zXS9Ts3l+Szu3TARnTsA0GkOkQ==
-
 "@typescript-eslint/eslint-plugin@4.32.0":
   version "4.32.0"
   resolved "https://registry.yarnpkg.com/@typescript-eslint/eslint-plugin/-/eslint-plugin-4.32.0.tgz#46d2370ae9311092f2a6f7246d28357daf2d4e89"
@@ -327,12 +322,12 @@
     "@typescript-eslint/types" "4.32.0"
     eslint-visitor-keys "^2.0.0"
 
-"@vt7/utils@^0.0.18":
-  version "0.0.18"
-  resolved "https://registry.yarnpkg.com/@vt7/utils/-/utils-0.0.18.tgz#ef0727a6faa656d29bde612721556f76f605f46c"
-  integrity sha512-7/LylDOPWveB5/0Wu0FWoSa4axB+Mh5CuXBfiYp/r++cIcECjLh+xSkOS/EsV3JDtdVnqflcd+nhFuiUOllOJQ==
+"@vt7/utils@^1.2.0":
+  version "1.2.0"
+  resolved "https://registry.yarnpkg.com/@vt7/utils/-/utils-1.2.0.tgz#5f9bd18628329831b660fb92a57e7866574210c6"
+  integrity sha512-YVtEw6H621FEZBW0wwX/diV2nQWtNP4+eCR0EZGXU+EhRBKA1P4pLQxiE3weKLV5XTHSdNmgj/7uezdB4XuYnQ==
   dependencies:
-    "@types/throttle-debounce" "^2.1.0"
+    throttle-debounce "^3.0.1"
 
 "@vt7/vueuse@^1.0.0":
   version "1.0.0"
@@ -2540,6 +2535,11 @@ thenify-all@^1.0.0:
   integrity sha512-RVZSIV5IG10Hk3enotrhvz0T9em6cyHBLkH/YAZuKqd8hRkKhSfCGIcP2KUY0EPxndzANBmNllzWPwak+bheSw==
   dependencies:
     any-promise "^1.0.0"
+
+throttle-debounce@^3.0.1:
+  version "3.0.1"
+  resolved "https://registry.yarnpkg.com/throttle-debounce/-/throttle-debounce-3.0.1.tgz#32f94d84dfa894f786c9a1f290e7a645b6a19abb"
+  integrity sha512-dTEWWNu6JmeVXY0ZYoPuH5cRIwc0MeGbJwah9KUNYSJwommQpCzTySTpEe8Gs1J23aeWEuAobe4Ag7EHVt/LOg==
 
 through2@^2.0.0:
   version "2.0.5"
