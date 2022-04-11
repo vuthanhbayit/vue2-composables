@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.0.0](https://github.com/vuthanhbayit/vue2-composables/compare/v0.0.19...v1.0.0) (2022-04-11)
+
+
+### Bug Fixes
+
+* **watchShallow:** side effect isEqual ([fac7373](https://github.com/vuthanhbayit/vue2-composables/commit/fac73734c7a2ce45410d9853de08c176c5ad048d))
+
 ### [0.0.19](https://github.com/vuthanhbayit/vue2-composables/compare/v0.0.18...v0.0.19) (2021-11-26)
 
 ### [0.0.18](https://github.com/vuthanhbayit/vue2-composables/compare/v0.0.17...v0.0.18) (2021-11-26)
